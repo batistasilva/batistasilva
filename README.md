@@ -5,7 +5,7 @@
 - 👌 If you need any help with my projects, leave a message...
 - 👀 In case any of my projects helped, and you want to buy me a coffee...
 - 🙏 Pix: 7a43caee-c92a-4d81-be23-ccf12230bec5
-- 🙏 PalPal: https://www.paypal.com/donate/?hosted_button_id=D8W5C9UZXK4DS
+- 🙏 PayPal: https://www.paypal.com/donate/?hosted_button_id=D8W5C9UZXK4DS
 
 <!---
 batistasilva/batistasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
