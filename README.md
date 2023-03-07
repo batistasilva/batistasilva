@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Batista Silva
 - 👀 I’m interested in C++[Sound Api, JUCE], Java[8, 9, 10], Php[CodeIgnite4, Laravel], Python, Qt[5, 6], Gtk[3, 4], NodeJS[16], React[13]
-- 💞️ I’m looking for to collaborate on some project in [C++, Qt6, JUCE Framework, Java, Gtk4]..
-- 📫 How to encourage me. Give me some advice or project to join.
 - 👌 If you need any help with my projects, leave me a message...
 - 👀 In case any of my projects helped, and you want to buy me a coffee...
 - 🙏 `Pix`, key below... copy and past.👇 🙏 
