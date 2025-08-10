@@ -25,7 +25,8 @@ I'm a passionate developer with a focus on building robust and scalable desktop 
 | JavaScript,Perl  |              |                 |           |  
 
 * 👀 In case any of my projects helped, and you want to buy me a coffee.
-![](img/pix_white.png)    -    ![](img/logo_paypa.png)
+* 
+* ![](img/pix_white.png)    -    ![](img/logo_paypa.png)
 
 
 ### **🤝 Connect with Me**
