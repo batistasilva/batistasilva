@@ -1,4 +1,4 @@
-[Para ver em português:](https://github.com/batistasilva/README.pt.md)
+[Para ver em português:](README.pt.md)
 
 ## **👋 Hi, I'm Batista Silva** 
 
