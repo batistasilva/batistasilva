@@ -1,4 +1,4 @@
-## **👋 Hi, I'm Batista Silva** 
+## **👋 Olá, sou Batista Silva** 
 
 Eu sou um desenvolvedor apaixonado com foco em construir aplicações desktop e web robustas e escaláveis. Adoro aprender novas tecnologias e contribuir para projetos de código aberto..
 
