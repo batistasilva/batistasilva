@@ -1,3 +1,5 @@
+[Para ver em português:](https://github.com/batistasilva/README.pt.md)
+
 ## **👋 Hi, I'm Batista Silva** 
 
 I'm a passionate developer with a focus on building robust and scalable desktop and web applications. I love learning new technologies and contributing to open-source projects.
@@ -11,8 +13,6 @@ I'm a passionate developer with a focus on building robust and scalable desktop 
 * desktop and web performance. 
 * ➤ I am open to work and ready for new challenges.
 *  ####    ✨ I'm available for freelance projects. 
-* 📫 How to reach me:   
-* ⚡ Fun fact: I once built a small robot that sorted my Lego bricks by color\!
 
 
 ### **💻 My Skills**
@@ -29,7 +29,9 @@ I'm a passionate developer with a focus on building robust and scalable desktop 
 * ![](img/pix_white.png)    -    ![](img/logo_paypa.png)
 
 
-### **🤝 Connect with Me**
+<!--  ### **🤝 Connect with Me**-->
+* 📫 How to reach me:   
+
 * ![](img/logo_email.png)
      
      
