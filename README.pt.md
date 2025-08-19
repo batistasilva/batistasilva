@@ -4,7 +4,7 @@ Eu sou um desenvolvedor apaixonado com foco em construir aplicações desktop e 
 
 ### **🚀 Sobre Mim”**
 
-* 🔭 Atualmente, estou trabalhando em um projeto pessoal usando o Gtk4 e o banco de dados MariaDB.  
+* 🔭 Atualmente, estou trabalhando em um projeto pessoal usando o Qt6: O QTCommandAI é um aplicativo projetado para gerenciar tarefas, executar comandos, realizar pesquisas na web e gerar arquivos PDF. Para fins de entretenimento, ele pode reproduzir vídeos em plataformas como o YouTube. Além disso, ele tem a capacidade de executar comandos por meio de uma porta serial da Web, permitindo que equipamentos inteligentes controlem tarefas em grandes organizações.  
 * 🌱 Atualmente, estou me dedicando a aprender boas práticas de desenvolvimento, com ênfase em I.A. e práticas avançadas de DevOps.  
 * 👯 Busco colaborar em projetos de código aberto relacionados a “I.A.” (aplicação para desktop ou web).  
 * 💬 Fique à vontade para perguntar sobre C, C++, Qt6, Gtk4, GnuCobol, JavaScript, Python, ou qualquer outra coisa relacionada a performance para aplicações desktop ou web. 
